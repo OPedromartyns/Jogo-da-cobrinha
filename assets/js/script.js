@@ -1,11 +1,4 @@
-/*!
- * Jeferson Luckas - Snake game 2D
- * 
- * Copyright (c) 2020 Jeferson Luckas
- * Released under the MIT license
- * https://github.com/JefersonLucas/snake-game-2D/blob/master/LICENSE
- *
- */
+
 
 //	Variáveis Globais
 	let cobra = [];
